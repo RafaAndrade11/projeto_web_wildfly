@@ -1,0 +1,17 @@
+br\com\randrade\exceptions\TipoElementoNaoConhecidoException.class
+br\com\randrade\dao\IJogosDAO.class
+br\com\randrade\domain\Persistente.class
+br\com\randrade\dao\JogosDAO.class
+br\com\randrade\dao\generic\GenericDAO.class
+br\com\randrade\exceptions\MaisDeUmRegistroException.class
+br\com\randrade\service\IJogosService.class
+br\com\randrade\controller\JogosController.class
+br\com\randrade\service\JogosService.class
+br\com\randrade\controller\IndexController.class
+br\com\randrade\services\generic\GenericService.class
+br\com\randrade\domain\Jogos.class
+br\com\randrade\exceptions\TableException.class
+br\com\randrade\services\generic\IGenericService.class
+br\com\randrade\exceptions\DAOException.class
+br\com\randrade\exceptions\TipoChaveNaoEncontradaException.class
+br\com\randrade\dao\generic\IGenericDAO.class

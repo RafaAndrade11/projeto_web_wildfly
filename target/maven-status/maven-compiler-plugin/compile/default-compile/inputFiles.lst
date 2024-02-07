@@ -1,0 +1,17 @@
+C:\Users\nri\Desktop\PROJETOS\JogosPlatinados\src\main\java\br\com\randrade\exceptions\TableException.java
+C:\Users\nri\Desktop\PROJETOS\JogosPlatinados\src\main\java\br\com\randrade\service\IJogosService.java
+C:\Users\nri\Desktop\PROJETOS\JogosPlatinados\src\main\java\br\com\randrade\dao\JogosDAO.java
+C:\Users\nri\Desktop\PROJETOS\JogosPlatinados\src\main\java\br\com\randrade\exceptions\TipoElementoNaoConhecidoException.java
+C:\Users\nri\Desktop\PROJETOS\JogosPlatinados\src\main\java\br\com\randrade\dao\generic\GenericDAO.java
+C:\Users\nri\Desktop\PROJETOS\JogosPlatinados\src\main\java\br\com\randrade\services\generic\IGenericService.java
+C:\Users\nri\Desktop\PROJETOS\JogosPlatinados\src\main\java\br\com\randrade\domain\Persistente.java
+C:\Users\nri\Desktop\PROJETOS\JogosPlatinados\src\main\java\br\com\randrade\controller\IndexController.java
+C:\Users\nri\Desktop\PROJETOS\JogosPlatinados\src\main\java\br\com\randrade\dao\IJogosDAO.java
+C:\Users\nri\Desktop\PROJETOS\JogosPlatinados\src\main\java\br\com\randrade\service\JogosService.java
+C:\Users\nri\Desktop\PROJETOS\JogosPlatinados\src\main\java\br\com\randrade\services\generic\GenericService.java
+C:\Users\nri\Desktop\PROJETOS\JogosPlatinados\src\main\java\br\com\randrade\domain\Jogos.java
+C:\Users\nri\Desktop\PROJETOS\JogosPlatinados\src\main\java\br\com\randrade\dao\generic\IGenericDAO.java
+C:\Users\nri\Desktop\PROJETOS\JogosPlatinados\src\main\java\br\com\randrade\controller\JogosController.java
+C:\Users\nri\Desktop\PROJETOS\JogosPlatinados\src\main\java\br\com\randrade\exceptions\MaisDeUmRegistroException.java
+C:\Users\nri\Desktop\PROJETOS\JogosPlatinados\src\main\java\br\com\randrade\exceptions\DAOException.java
+C:\Users\nri\Desktop\PROJETOS\JogosPlatinados\src\main\java\br\com\randrade\exceptions\TipoChaveNaoEncontradaException.java
