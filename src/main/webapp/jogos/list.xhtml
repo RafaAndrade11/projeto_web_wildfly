@@ -42,10 +42,6 @@
 								<h:outputText id="nomeInput" value="#{customer.nome}" />
 							</p:column>
 
-							<p:column headerText="Plataforma">
-								<h:outputText id="plataformaInput" value="#{customer.plataforma}" />
-							</p:column>
-
 							<p:column headerText="Ano de término">
 								<h:outputText id="anolInput" value="#{customer.ano}" />
 							</p:column>
@@ -86,13 +82,8 @@
 							<p:inputText id="Nome"
 								value="#{jogosController.jogos.nome}" required="true" />
 							<p:message for="Nome" />
-							
-							<p:outputLabel for="Plataforma" value="plataforma" />
-							<p:inputText id="plataforma" 
-								value="#{jogosController.jogos.plataforma}" />								
-							<p:message for="cpf" />
 	
-							<p:outputLabel for="Ano de término" value="ano" />
+							<p:outputLabel for="ano" value="Ano de Término" />
 							<p:inputText id="ano"
 								value="#{jogosController.jogos.ano}" required="true">
 							</p:inputText>

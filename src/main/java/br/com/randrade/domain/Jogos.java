@@ -27,8 +27,6 @@ public class Jogos implements Persistente {
 	@Column(name = "NOME", nullable = false, unique = true, length = 50)
 	private String nome;
 	
-	@Column(name = "PLATAFORMA", nullable = false, length = 50)
-    private String plataforma;
     
 	@Column(name = "ANO", nullable = false, length = 4)
     private int ano;
@@ -49,19 +47,11 @@ public class Jogos implements Persistente {
 		this.nome = nome;
 	}
 
-	public String getPlataforma() {
-		return plataforma;
-	}
-
-	public void setPlataforma(String plataforma) {
-		this.plataforma = plataforma;
-	}
-
-	public int getDat() {
+	public int getAno() {
 		return ano;
 	}
 
-	public void setDat(int ano) {
+	public void setAno(int ano) {
 		this.ano = ano;
 	}
 	
